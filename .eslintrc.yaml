@@ -1,0 +1,5 @@
+# Deno has its own type checker
+no-undef: off
+
+# Deno has its own formatter
+prettier/prettier: off
